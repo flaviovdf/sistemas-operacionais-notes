@@ -46,7 +46,7 @@ os pontos principais: OStep, XV6 Book, Linux Kernel GitBook.
      1. Paginação
      1. Tabelas de Página
      1. Memória Virtual
-  1. Persistências
+  1. Persistência
      1. Dispositivos de E/S
      1. Discos
      1. RAID
