@@ -25,58 +25,51 @@ os pontos principais: OStep, XV6 Book, Linux Kernel GitBook.
 ## Tópicos:
 
   1. Introdução
-  
   1. Processos
-    1. Estruturas de um Processo
-    1. Morte e Vida de Processos
-    1. Fork/Exec
-    1. Sinais e Pipes
-    1. Escalonamento de Processos
-    1. Mensurando a Eficácia de Algoritmos de Escalonamento
-    
+     1. Estruturas de um Processo
+     1. Morte e Vida de Processos
+     1. Fork/Exec
+     1. Sinais e Pipes
+     1. Escalonamento de Processos
+     1. Mensurando a Eficácia de Algoritmos de Escalonamento 
   1. Concorrência
-    1. Semáforos
-    1. Mutexes
-    1. Operações Atômicas
-    1. Outras Primitivas (e.g., Barreiras, Monitores)
-    1. Deadlocks
-    
+     1. Semáforos
+     1. Mutexes
+     1. Operações Atômicas
+     1. Outras Primitivas (e.g., Barreiras, Monitores)
+     1. Deadlocks
   1. Gerenciamento de Memória
-    1. Bottom Up: Qual o papel do Hardware?
-    1. Estratégias Simples de Alocação de Memória
-    1. MMU Simples (Base + Limite)
-    1. Segmentação
-    1. Paginação
-    1. Tabelas de Página
-    1. Memória Virtual
-    
+     1. Bottom Up: Qual o papel do Hardware?
+     1. Estratégias Simples de Alocação de Memória
+     1. MMU Simples (Base + Limite)
+     1. Segmentação
+     1. Paginação
+     1. Tabelas de Página
+     1. Memória Virtual
   1. Persistências
-    1. Dispositivos de E/S
-    1. Discos
-    1. RAID
-    1. iNodes
-    1. File Allocation Table
-    1. Fast File System
-    1. Log File Systems
-    1. Journal File Systems
-    
+     1. Dispositivos de E/S
+     1. Discos
+     1. RAID
+     1. iNodes
+     1. File Allocation Table
+     1. Fast File System
+     1. Log File Systems
+     1. Journal File Systems 
   1. Sistemas Distribuídos
-    1. Visão Geral
-    1. Sistemas de Arquivos Distribuídos: Caso 1 - NFS
-    1. Sistemas de Arquivos Distribuídos: Caso 2 - AFS
-    1. Sistemas de Arquivos Distribuídos: Caso 3 - GlusterFS, GFS e Afins
-    
+     1. Visão Geral
+     1. Sistemas de Arquivos Distribuídos: Caso 1 - NFS
+     1. Sistemas de Arquivos Distribuídos: Caso 2 - AFS
+     1. Sistemas de Arquivos Distribuídos: Caso 3 - GlusterFS, GFS e Afins  
   1. Virtualização
-    1. Como implementar
-    1. Emuladores
-    1. Máquinas Virtuais
-    1. Hypervisors
-    1. Containers
-    1. Caso de Estudo: Docker
-    
+     1. Como implementar
+     1. Emuladores
+     1. Máquinas Virtuais
+     1. Hypervisors
+     1. Containers
+     1. Caso de Estudo: Docker
   1. Proteção e Segurança
-    1. Conceitos Gerais de Proteção
-    1. Conceitos Gerais de Segurança
+     1. Conceitos Gerais de Proteção
+     1. Conceitos Gerais de Segurança 
 
 ## Slides
 
