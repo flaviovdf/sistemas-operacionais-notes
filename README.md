@@ -37,6 +37,7 @@ os pontos principais: OStep, XV6 Book, Linux Kernel GitBook.
      1. Mutexes
      1. Operações Atômicas
      1. Outras Primitivas (e.g., Barreiras, Monitores)
+     1. Sistemas de processamento de eventos/mensagens
      1. Deadlocks
   1. Gerenciamento de Memória
      1. Bottom Up: Qual o papel do Hardware?
