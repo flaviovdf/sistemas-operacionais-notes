@@ -61,16 +61,15 @@ os pontos principais: OStep, XV6 Book, Linux Kernel GitBook.
      1. Sistemas de Arquivos Distribuídos: Caso 1 - NFS
      1. Sistemas de Arquivos Distribuídos: Caso 2 - AFS
      1. Sistemas de Arquivos Distribuídos: Caso 3 - GlusterFS, GFS e Afins
-  1. Virtualização
-     1. Hypervisors
-     1. Emuladores
-     1. Máquinas Virtuais
-     1. Paravirtualização
-     1. Containers
-     1. Caso de Estudo: Docker
   1. Proteção e Segurança
      1. Conceitos Gerais de Proteção
      1. Conceitos Gerais de Segurança
+  1. Virtualização
+     1. Emuladores
+     1. Hypervisors Tipo 2
+     1. Paravirtualização
+     1. Containers
+     1. Caso de Estudo: Docker
 
 ## Slides
 
